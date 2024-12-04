@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1733231603927,
+    "name": "Abdullajon",
+    "age": "18",
+    "email": "Abdula12@gmail.com",
+    "callnumber": "+998901234567"
+  },
+  {
+    "id": 1733232571534,
+    "name": "Javohir",
+    "age": "18",
+    "email": "Javohir12@gmail.com",
+    "callnumber": "+998901234567"
+  },
+  {
+    "id": 1733233111402,
+    "name": "Azizjon",
+    "age": "18",
+    "email": "Javohir12@gmail.com",
+    "callnumber": "+998901234567"
+  }
+]
